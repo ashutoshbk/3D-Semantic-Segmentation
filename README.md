@@ -4,6 +4,7 @@
 This project focuses on developing expertise in 3D semantic segmentation and object extraction using advanced machine learning techniques. The goal is to design a highly accurate 3D object detection model by leveraging Kernel Point Convolution (KPConv) capabilities within PyTorch, integrating data from LiDAR and 2D imagery, and ensuring rigorous data validation and post-processing.
 
 ![Project Image](path/to/your/image.png)
+![Project Image](path/to/your/image.png)
 
 ## Project Details
 ### Objective
